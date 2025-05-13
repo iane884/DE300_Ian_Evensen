@@ -1,0 +1,6 @@
+duckdb
+pandas
+cassandra-driver
+cassandra-sigv4
+boto3
+jupyterlab
