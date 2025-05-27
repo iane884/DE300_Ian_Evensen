@@ -3,7 +3,8 @@
 ## Contents
 - `de300_hw3.ipynb`: source code
 - `Dockerfile`: container definition
-- `requirements.txt` : Python dependencies  
+- `requirements.txt` : Python dependencies
+- "DE 300 HW3 GenAIDisclosure.pdf": Generative AI Disclosure
 
 ## Local setup (without Docker):
 - Install dependencies
