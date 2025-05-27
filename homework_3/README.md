@@ -2,9 +2,13 @@
 
 ## Contents
 - `de300_hw3.ipynb`: source code
-- `Dockerfile`: container definition  
+- `Dockerfile`: container definition
+- `requirements.txt` : Python dependencies  
 
 ## Local setup (without Docker):
+- Install dependencies
+   ```
+   pip install -r requirements.txt
 - Clone this repo and cd into the homework_3 folder
 - Launch Jupyter Lab:
   ```
