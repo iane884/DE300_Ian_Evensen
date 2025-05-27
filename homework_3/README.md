@@ -3,8 +3,6 @@
 ## Contents
 - `de300_hw3.ipynb`: source code
 - `Dockerfile`: container definition  
-- `w.csv`, `bias.csv`, `data_for_svm.csv`: SVM data files  
-- `dataset/`: folder containing `agnews_clean.csv`
 
 ## Local setup (without Docker):
 - Clone this repo and cd into the homework_3 folder
